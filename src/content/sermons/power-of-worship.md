@@ -1,41 +1,37 @@
 ---
-title: "The Power of Worship: More Than Just Music"
+title: "El Poder de la Participación: Más Allá de una Actividad"
 date: 2025-02-16
 speaker: "David Wilson"
-series: "Worship in Spirit and Truth"
-scripture: "John 4:23-24"
+series: "Compromiso y Transformación"
+scripture: ""
 audioUrl: "https://example.com/sermons/power-of-worship.mp3"
 videoUrl: "https://www.youtube.com/embed/example456"
 image: "/uploads/sermons/power-of-worship.webp"
-summary: "Explore the true meaning of worship and how it transforms our relationship with God beyond just musical expression."
-tags: ["worship", "spiritual growth", "music"]
+summary: "Explora el verdadero significado de participar activamente en una causa y cómo esto transforma nuestra relación con la comunidad más allá de una sola acción."
+tags: ["participación", "compromiso social", "transformación"]
 draft: false
 ---
 
-## Sermon Overview
+## Resumen de la Charla
 
-In this message, we explore the biblical foundations of worship and its transformative power in our lives. We'll discover that worship is not just about music, but a lifestyle of honoring God in everything we do.
+En esta charla, exploramos los fundamentos y el impacto transformador de involucrarse en una causa social. Descubriremos que el compromiso no es solo una actividad puntual, sino un estilo de vida que genera cambios reales.
 
-### Key Points
+### Puntos Clave
 
-1. **The Heart of Worship**
-   - Understanding true worship
-   - Moving beyond external expressions
-   - Connecting with God's presence
+1. **El Corazón del Compromiso**
+   - Entender la participación genuina
+   - Ir más allá de las acciones externas
+   - Conectar con el propósito de la organización
 
-2. **Worship as a Lifestyle**
-   - Daily acts of worship
-   - Serving others as worship
-   - Living sacrificially
+2. **Compromiso como Estilo de Vida**
+   - Acciones diarias que suman
+   - Servir y colaborar en comunidad
+   - Vivir con propósito y solidaridad
 
-3. **The Impact of Corporate Worship**
-   - Unity in the Body of Christ
-   - Encouraging one another
-   - Creating space for God's presence
+3. **El Impacto del Trabajo en Equipo**
+   - Unidad en la diversidad
+   - Apoyarnos mutuamente
+   - Crear espacios de transformación social
 
-### Scripture References
-- John 4:23-24
-- Romans 12:1-2
-- Psalm 95:1-7
-
-> "Yet a time is coming and has now come when the true worshipers will worship the Father in the Spirit and in truth, for they are the kind of worshipers the Father seeks." - John 4:23
+### Frases Inspiradoras
+> "El verdadero cambio comienza cuando decidimos involucrarnos y ser parte de la solución."

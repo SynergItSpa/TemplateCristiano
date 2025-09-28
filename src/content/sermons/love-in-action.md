@@ -1,47 +1,45 @@
 ---
-title: "Love in Action: Serving Others as Christ Served"
+title: "Amor en Acción: Servir a los Demás"
 date: 2025-01-26
-speaker: "Rev. Sarah Martinez"
-series: "Living Like Jesus"
-scripture: "John 13:12-17"
+speaker: "Sara Martínez"
+series: "Viviendo Nuestros Valores"
+scripture: ""
 audioUrl: "https://example.com/sermons/love-in-action.mp3"
 videoUrl: "https://www.youtube.com/embed/example101"
 image: "/uploads/sermons/love-in-action.webp"
-summary: "Discover how Jesus' example of servant leadership calls us to love others through practical acts of service and sacrifice."
-tags: ["service", "love", "discipleship"]
+summary: "Descubre cómo el ejemplo de servicio y liderazgo solidario nos invita a amar a los demás a través de acciones concretas y desinteresadas."
+tags: ["servicio", "solidaridad", "liderazgo"]
 draft: false
 ---
 
-## Sermon Overview
+## Resumen de la Charla
 
-Jesus demonstrated the ultimate act of love through service when He washed His disciples' feet. This powerful example teaches us that true greatness comes through serving others with humility and love.
+El servicio es una de las formas más poderosas de generar impacto social. Esta charla nos enseña que la verdadera grandeza se encuentra en servir a los demás con humildad y empatía.
 
-### The Example of Jesus
+### El Ejemplo del Servicio
 
-1. **Humility in Leadership**
-   - Jesus, the Son of God, took the role of a servant
-   - True leadership serves others first
-   - Putting others' needs before our own
+1. **Liderazgo Humilde**
+   - Liderar es servir primero
+   - Poner las necesidades de otros antes que las propias
 
-2. **Practical Love**
-   - Love is more than feelings - it's action
-   - Meeting people's real needs
-   - Serving without expecting recognition
+2. **Amor Práctico**
+   - El amor se demuestra con acciones
+   - Atender necesidades reales
+   - Servir sin esperar reconocimiento
 
-3. **Following His Example**
-   - "As I have done for you, you should also do"
-   - Making service a lifestyle, not just an event
-   - Finding joy in serving others
+3. **Hacer del Servicio un Estilo de Vida**
+   - Servir como parte de la vida diaria
+   - Encontrar alegría en ayudar a otros
 
-### Ways to Serve
+### Formas de Servir
 
-- **In Our Church**: Volunteering in ministries, helping with events
-- **In Our Community**: Food banks, community cleanup, visiting elderly
-- **In Our Families**: Acts of kindness and service at home
-- **In Our Workplaces**: Being helpful and considerate colleagues
+- **En la Organización**: Voluntariado, apoyo en eventos y proyectos
+- **En la Comunidad**: Jornadas solidarias, actividades de apoyo social
+- **En la Familia**: Actos de amabilidad y ayuda en el hogar
+- **En el Trabajo**: Ser un colega solidario y colaborativo
 
-### Challenge for the Week
+### Desafío de la Semana
 
-Choose one specific way to serve someone this week without them knowing it was you. Experience the joy of anonymous service.
+Elige una forma concreta de servir a alguien esta semana sin esperar nada a cambio. Descubre la satisfacción de ayudar de manera anónima.
 
-*This message prepares us for our upcoming Community Outreach Day on March 15th.*
+*Esta charla nos prepara para nuestra próxima Jornada de Acción Comunitaria.*

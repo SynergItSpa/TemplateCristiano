@@ -1,49 +1,49 @@
 ---
-title: "Walking in Faith: Trusting God's Plan"
+title: "Caminando con Confianza: Creer en el Propósito"
 date: 2025-02-02
-speaker: "Rev. Dr. John Smith"
-series: "Faith Foundations"
-scripture: "Proverbs 3:5-6"
+speaker: "Dra. Laura Gómez"
+series: "Bases del Compromiso"
+scripture: ""
 audioUrl: "https://example.com/sermons/walking-in-faith.mp3"
 videoUrl: "https://www.youtube.com/embed/example789"
 image: "/uploads/sermons/walking-in-faith.webp"
-summary: "Learn how to trust God completely and walk confidently in His plan for your life, even when the path seems unclear."
-tags: ["faith", "trust", "guidance"]
+summary: "Aprende a confiar en el proceso y caminar con seguridad hacia los objetivos de tu organización, incluso cuando el camino no es claro."
+tags: ["confianza", "propósito", "liderazgo"]
 draft: false
 ---
 
-## Sermon Overview
+## Resumen de la Charla
 
-In this message, we explore what it means to truly trust in the Lord with all our heart and lean not on our own understanding. Through practical examples and biblical wisdom, we'll discover how to walk confidently in God's plan.
+En esta charla, exploramos qué significa confiar en el propósito de una causa y avanzar con seguridad, aun en medio de la incertidumbre. A través de ejemplos prácticos y experiencias reales, descubriremos cómo mantenernos firmes en nuestros valores.
 
-### Key Points
+### Puntos Clave
 
-1. **Trust with Your Whole Heart**
-   - Moving beyond partial trust
-   - Surrendering our need for control
-   - Finding security in God's character
+1. **Confía con Todo tu Corazón**
+   - Ir más allá de la confianza parcial
+   - Soltar el control y delegar
+   - Encontrar seguridad en el propósito común
 
-2. **Don't Lean on Your Own Understanding**
-   - Recognizing the limitations of human wisdom
-   - Seeking God's perspective
-   - Waiting for His timing
+2. **No te Apoyes Solo en tu Propia Perspectiva**
+   - Reconocer los límites de la visión individual
+   - Buscar diferentes puntos de vista
+   - Esperar el momento adecuado para actuar
 
-3. **Acknowledge Him in All Your Ways**
-   - Including God in every decision
-   - Seeking His will through prayer and Scripture
-   - Living with eternal perspective
+3. **Reconoce el Valor de la Colaboración**
+   - Incluir a otros en las decisiones
+   - Buscar orientación y aprendizaje continuo
+   - Vivir con una perspectiva de impacto colectivo
 
-### Life Application
+### Aplicación Práctica
 
-- Daily practices for trusting God
-- How to discern God's will
-- Finding peace in uncertainty
-- Supporting others in others in their faith journey
+- Prácticas diarias para fortalecer la confianza en el equipo
+- Cómo discernir el mejor camino a seguir
+- Encontrar paz en la incertidumbre
+- Apoyar a otros en su proceso de crecimiento
 
-### Discussion Questions
+### Preguntas para Reflexión
 
-1. What areas of your life are hardest to trust God with?
-2. How can we better acknowledge God in our daily decisions?
-3. What does it look like to lean on God's understanding rather than our own?
+1. ¿En qué áreas te cuesta más confiar en el equipo o el proceso?
+2. ¿Cómo podemos reconocer mejor el valor de la colaboración en nuestras decisiones diarias?
+3. ¿Qué significa apoyarse en la experiencia colectiva más que en la propia?
 
-*This message is part of our "Faith Foundations" series, designed to strengthen our understanding of basic Christian principles.*
+*Esta charla forma parte de la serie "Bases del Compromiso", diseñada para fortalecer el trabajo y los valores de cualquier organización social.*
