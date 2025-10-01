@@ -1,0 +1,11 @@
+{
+  "hosting": {
+    "site": "template-2-5499c",
+    "public": "dist",
+    "ignore": [
+      "firebase.json",
+      "**/.*",
+      "**/node_modules/**"
+    ]
+  }
+}
