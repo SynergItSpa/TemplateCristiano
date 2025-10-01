@@ -1,34 +1,32 @@
 ---
 name: "David Wilson"
-title: "Worship Director"
+title: "Director de Actividades Artísticas y Musicales"
 image: "/uploads/staff/david-wilson.webp"
-email: "david.wilson@churchname.org"
+email: "david.wilson@organization.org"
 phone: "+1-555-0104"
-bio: "David leads our worship ministry with passion and excellence, bringing over 15 years of experience in church music."
+bio: "David lidera el área artística y musical de nuestra organización, aportando más de 15 años de experiencia en educación musical y coordinación de eventos."
 order: 4
 draft: false
 ---
 
-David Wilson joined our staff in 2018, bringing a wealth of experience in worship leadership and music education. He holds a Bachelor's degree in Music from Example University and has completed advanced studies in worship ministry.
+David Wilson se integró a nuestro equipo en 2018, aportando una amplia experiencia en liderazgo artístico y educación musical. Es licenciado en Música y ha realizado estudios avanzados en gestión cultural.
 
-## Areas of Leadership
+## Áreas de Liderazgo
 
-- Planning and leading worship services
-- Directing the church choir
-- Mentoring worship team members
-- Organizing special music events
-- Overseeing technical production
+- Planificación y dirección de actividades artísticas y musicales
+- Mentoría a integrantes del equipo artístico
+- Organización de eventos especiales
+- Supervisión de la producción técnica
 
-## Musical Background
+## Trayectoria Musical
 
-David is proficient in multiple instruments including piano, guitar, and voice. He has written several worship songs and continues to contribute to our church's musical repertoire.
+David domina varios instrumentos, incluyendo piano, guitarra y voz. Ha compuesto piezas originales y sigue contribuyendo al repertorio artístico de la organización.
 
-## Vision for Worship
+## Visión Artística
 
-David believes in creating an inclusive worship environment that:
-- Honors God with excellence
-- Encourages participation from all generations
-- Blends traditional and contemporary styles
-- Develops new worship leaders
+David promueve un ambiente inclusivo que:
+- Fomente la participación de todas las generaciones
+- Combine estilos tradicionales y contemporáneos
+- Desarrolle nuevos líderes artísticos
 
-Contact David to learn more about our worship ministry or to schedule an audition for the worship team.
+Contacta a David para conocer más sobre el área artística o para participar en el equipo.

@@ -1,138 +1,137 @@
 ---
-name: "Men's Ministry"
-slug: "mens-ministry"
+name: "Men's Program"
+slug: "mens-program"
 logo: "/uploads/ministries/mens-ministry-logo.webp"
-summary: "Building strong Christian men through fellowship, discipleship, and service opportunities that strengthen faith and character."
+summary: "Fomentando el desarrollo integral de los hombres a través de la convivencia, el liderazgo y oportunidades de servicio que fortalecen el carácter y el compromiso social."
 coordinator: "Robert Johnson"
-contact: "mens@churchname.org"
-schedule: "Men's Breakfast: 1st Saturday 8:00 AM | Bible Study: Thursday 7:00 PM"
+contact: "mens@organization.org"
+schedule: "Desayuno de Hombres: 1er Sábado 8:00 AM | Taller de Desarrollo: Jueves 7:00 PM"
 order: 4
 draft: false
 ---
 
-## Our Purpose
+## Nuestro Propósito
 
-To develop men of character who lead with integrity, serve with humility, and live out their faith boldly in their families, workplaces, and communities.
+Desarrollar hombres íntegros que lideren con responsabilidad, sirvan con humildad y vivan con compromiso en sus familias, lugares de trabajo y comunidades.
 
-## Core Values
+## Valores Fundamentales
 
-### Biblical Manhood
-- Understanding God's design for men
-- Developing spiritual leadership
-- Growing in wisdom and discernment
-- Living with purpose and direction
+### Desarrollo Personal
+- Comprender el rol positivo del hombre en la sociedad
+- Desarrollar liderazgo responsable
+- Crecer en sabiduría y toma de decisiones
+- Vivir con propósito y dirección
 
-### Brotherhood
-- Building authentic relationships
-- Supporting one another through challenges
-- Celebrating victories together
-- Creating accountability partnerships
+### Hermandad
+- Construir relaciones auténticas
+- Apoyarse mutuamente en los desafíos
+- Celebrar logros juntos
+- Crear redes de apoyo y mentoría
 
-### Service
-- Using our gifts to serve others
-- Leading by example in our families
-- Contributing to church and community
-- Mentoring younger men
+### Servicio
+- Utilizar nuestras habilidades para servir a otros
+- Liderar con el ejemplo en la familia y la comunidad
+- Contribuir a proyectos sociales y comunitarios
+- Mentorear a jóvenes
 
-## Regular Programs
+## Programas Regulares
 
-### Men's Breakfast Fellowship
-**When**: First Saturday of each month, 8:00 AM
-**What**: 
-- Hearty breakfast and fellowship
-- Guest speakers on relevant topics
-- Prayer and encouragement
-- Planning for upcoming activities
+### Desayuno de Hombres
+**Cuándo**: Primer sábado de cada mes, 8:00 AM
+**Qué**: 
+- Desayuno y convivencia
+- Charlas con invitados sobre temas relevantes
+- Espacio para compartir experiencias
+- Planeación de próximas actividades
 
-### Thursday Night Bible Study
-**When**: Every Thursday, 7:00 PM
-**What**:
-- In-depth Bible study
-- Discussion of life applications
-- Prayer for personal and family needs
-- Accountability and encouragement
+### Taller de Desarrollo Personal
+**Cuándo**: Todos los jueves, 7:00 PM
+**Qué**:
+- Talleres de habilidades y liderazgo
+- Discusión de aplicaciones prácticas en la vida diaria
+- Espacio para compartir inquietudes personales y familiares
+- Apoyo y motivación
 
-### Men's Retreat
-**When**: Annual weekend retreat
-**What**:
-- Intensive Bible teaching
-- Outdoor activities and recreation
-- Deep fellowship and bonding
-- Personal reflection and goal setting
+### Retiro Anual de Hombres
+**Cuándo**: Retiro de fin de semana anual
+**Qué**:
+- Talleres intensivos de desarrollo personal
+- Actividades al aire libre y recreación
+- Convivencia y fortalecimiento de lazos
+- Reflexión personal y establecimiento de metas
 
-## Special Events
+## Eventos Especiales
 
-### Father-Son Activities
-- Camping trips
-- Sports events
-- Service projects
-- Skill-building workshops
+### Actividades Padre e Hijo
+- Campamentos
+- Eventos deportivos
+- Proyectos de servicio
+- Talleres de habilidades
 
-### Community Service Projects
-- Home repairs for elderly and disabled
-- Church maintenance and improvements
-- Community cleanup initiatives
-- Disaster relief assistance
+### Proyectos de Servicio Comunitario
+- Reparaciones de viviendas para personas mayores o con discapacidad
+- Mantenimiento de espacios comunitarios
+- Jornadas de limpieza
+- Apoyo en situaciones de emergencia
 
-### Men's Conference
-- Annual conference with guest speakers
-- Workshops on marriage, parenting, and leadership
-- Worship and prayer sessions
-- Networking with men from other churches
+### Conferencia de Hombres
+- Conferencia anual con ponentes invitados
+- Talleres sobre familia, paternidad y liderazgo
+- Espacios de networking y colaboración
 
-## Small Groups
+## Grupos Pequeños
 
-### Career and Workplace
-- Navigating workplace challenges
-- Integrating faith and work
-- Professional development
-- Business ethics and integrity
+### Carrera y Ámbito Laboral
+- Afrontar desafíos en el trabajo
+- Integrar valores y ética profesional
+- Desarrollo profesional
+- Liderazgo e integridad en los negocios
 
-### Marriage and Family
-- Strengthening marriages
-- Effective parenting strategies
-- Family leadership principles
-- Work-life balance
+### Familia y Relaciones
+- Fortalecimiento de relaciones familiares
+- Estrategias de paternidad efectiva
+- Principios de liderazgo familiar
+- Equilibrio vida-trabajo
 
-### Young Professionals
-- Career guidance and mentorship
-- Financial stewardship
-- Dating and relationships
-- Life purpose and calling
+### Jóvenes Profesionales
+- Orientación profesional y mentoría
+- Administración financiera
+- Relaciones interpersonales
+- Propósito de vida y vocación
 
-## Leadership Development
+## Desarrollo de Liderazgo
 
-### Mentorship Program
-- Pairing experienced men with younger men
-- Regular meetings and guidance
-- Skill development and character building
-- Spiritual growth and accountability
+### Programa de Mentoría
+- Vincular hombres con experiencia con jóvenes
+- Reuniones regulares y orientación
+- Desarrollo de habilidades y carácter
+- Crecimiento personal y acompañamiento
 
-### Leadership Training
-- Biblical leadership principles
-- Communication and conflict resolution
-- Team building and delegation
-- Vision casting and planning
+### Formación en Liderazgo
+- Principios de liderazgo ético
+- Comunicación y resolución de conflictos
+- Trabajo en equipo y delegación
+- Definición de visión y planificación
 
-## How to Get Involved
+## Cómo Participar
 
-1. **Attend a Men's Breakfast**: Great way to meet other men and learn about our ministry
-2. **Join a Small Group**: Find a group that fits your life stage and interests
-3. **Participate in Service Projects**: Put your faith into action
-4. **Consider Leadership**: Help lead and organize ministry activities
+1. **Asiste al Desayuno de Hombres**: Excelente oportunidad para conocer a otros y enterarte de nuestras actividades
+2. **Únete a un Grupo Pequeño**: Encuentra un grupo acorde a tu etapa de vida e intereses
+3. **Participa en Proyectos de Servicio**: Pon en práctica tus habilidades y valores
+4. **Considera el Liderazgo**: Ayuda a organizar y liderar actividades del programa
 
-## Upcoming Events
+## Próximos Eventos
 
-- **March 2**: Men's Breakfast - "Leading with Courage"
-- **March 15**: Community Outreach Day participation
-- **April 12-14**: Annual Men's Retreat at Pine Lake
-- **May 4**: Father-Son Fishing Tournament
+- **2 de marzo**: Desayuno de Hombres - "Liderar con Coraje"
+- **15 de marzo**: Jornada de Servicio Comunitario
+- **12-14 de abril**: Retiro Anual de Hombres en Pine Lake
+- **4 de mayo**: Torneo de Pesca Padre e Hijo
 
-## Resources
+## Recursos
 
-- Recommended reading list
-- Marriage and parenting resources
-- Financial planning guidance
-- Career development materials
+- Lista de lecturas recomendadas
+- Recursos para relaciones familiares y paternidad
+- Guías de planificación financiera
+- Materiales para desarrollo profesional
 
-Contact Robert Johnson to learn more about Men's Ministry or to get connected with a small group.
+Contacta a Robert Johnson para saber más sobre el Programa de Hombres o para integrarte a un grupo pequeño.

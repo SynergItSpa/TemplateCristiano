@@ -1,30 +1,29 @@
 ---
-name: "Rev. Michael Johnson"
-title: "Youth Pastor"
+name: "Michael Johnson"
+title: "Coordinador de Juventud"
 image: "/uploads/staff/michael-johnson.webp"
-email: "michael.johnson@churchname.org"
+email: "michael.johnson@organization.org"
 phone: "+1-555-0103"
-bio: "Pastor Michael leads our vibrant youth ministry with energy and vision, helping young people discover their identity in Christ."
+bio: "Michael lidera nuestro programa juvenil con energía y visión, ayudando a los jóvenes a descubrir su potencial y fortalecer su desarrollo personal."
 order: 3
 draft: false
 ---
 
-Pastor Michael joined our staff in 2020 after serving in youth ministry for over 8 years. He holds a Bachelor's degree in Youth Ministry from Example Christian University and is currently pursuing his Master of Divinity.
+Michael Johnson se unió a nuestro equipo en 2020 tras más de 8 años de experiencia en programas juveniles. Es licenciado en Educación y actualmente cursa estudios de posgrado en gestión social.
 
-## Ministry Focus
+## Enfoque del Programa Juvenil
 
-- Leading weekly youth services and Bible studies
-- Mentoring youth leaders and volunteers
-- Organizing youth retreats and mission trips
-- Providing pastoral care for teenagers and their families
+- Coordinación de actividades y talleres semanales para jóvenes
+- Mentoría a líderes juveniles y voluntarios
+- Organización de retiros y campamentos
+- Acompañamiento a adolescentes y sus familias
 
-## Vision for Youth
+## Visión para la Juventud
 
-Pastor Michael is passionate about creating a safe, engaging environment where young people can:
+Michael busca crear un entorno seguro y motivador donde los jóvenes puedan:
 
-1. Experience authentic community
-2. Grow in their faith
-3. Develop leadership skills
-4. Serve others through missions and outreach
+1. Vivir una comunidad auténtica
+2. Desarrollar habilidades y liderazgo
+3. Participar en actividades de servicio y voluntariado
 
-Contact Pastor Michael to learn more about our youth ministry programs or to get involved as a volunteer.
+Contacta a Michael para conocer más sobre nuestros programas juveniles o para sumarte como voluntario.

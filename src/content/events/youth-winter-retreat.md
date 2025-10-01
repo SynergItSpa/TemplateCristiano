@@ -1,43 +1,42 @@
 ---
-title: "Youth Winter Retreat 2025: Unshakeable Faith"
+title: "Retiro Juvenil de Invierno 2025: Crecimiento y Diversión"
 date: 2025-02-14
 endDate: 2025-02-16
-time: "Departure: 4:00 PM Friday | Return: 2:00 PM Sunday"
-location: "Mountain View Retreat Center"
+time: "Salida: viernes 16:00 | Regreso: domingo 14:00"
+location: "Centro de Retiros Mountain View"
 image: "/uploads/events/winter-retreat-2025.webp"
-summary: "A transformative weekend of worship, fellowship, and winter fun for students grades 6-12."
-tags: ["youth", "retreat", "winter"]
+summary: "Un fin de semana transformador con talleres, convivencia y actividades de invierno para jóvenes de 6º a 12º grado."
+tags: ["juventud", "retiro", "invierno"]
 registrationRequired: true
 registrationLink: "https://example.com/winter-retreat-2025"
 draft: false
 ---
 
-## About the Retreat
+## Sobre el Retiro
 
-Join us for an unforgettable weekend as we explore what it means to have an unshakeable faith in Jesus Christ. Through dynamic worship, engaging messages, small group discussions, and winter activities, students will be challenged and encouraged in their faith journey.
+Te invitamos a un fin de semana inolvidable para explorar, aprender y disfrutar junto a otros jóvenes. Habrá talleres, actividades recreativas, espacios de diálogo y mucha diversión.
 
-### Schedule Highlights
+### Lo Más Destacado
 
-- **Friday Evening**: Arrival, dinner, opening session
-- **Saturday**: Morning worship, workshops, winter activities, evening worship
-- **Sunday**: Closing session, lunch, departure
+- **Viernes por la tarde:** Llegada, cena y bienvenida
+- **Sábado:** Talleres, actividades de invierno, dinámicas grupales
+- **Domingo:** Cierre, almuerzo y regreso
 
-### What to Bring
+### Qué Llevar
 
-- Bible and journal
-- Warm winter clothing
-- Sleeping bag and pillow
-- Personal toiletries
-- Spending money for snack shop
+- Ropa de abrigo
+- Bolsa de dormir y almohada
+- Artículos de higiene personal
+- Dinero para la tienda de snacks
 
-### Cost
+### Costo
 
-- Early Bird (before Jan 15): $175
-- Regular Registration: $195
-- Scholarships available - contact Pastor Michael
+- Inscripción anticipada (antes del 15 de enero): $175
+- Inscripción regular: $195
+- Hay becas disponibles, consulta con el coordinador
 
-### Registration Details
+### Detalles de Inscripción
 
-Space is limited to 100 students. Register early to secure your spot!
+Cupo limitado a 100 jóvenes. ¡Inscríbete pronto para asegurar tu lugar!
 
-*Parent/guardian permission form required for all participants.*
+*Se requiere autorización de madre/padre o tutor/a para participar.*

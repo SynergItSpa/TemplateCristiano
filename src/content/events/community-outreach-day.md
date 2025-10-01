@@ -1,52 +1,52 @@
 ---
-title: "Community Outreach Day: Serving Our Neighbors"
+title: "Jornada de Apoyo Comunitario"
 date: 2025-03-15
 endDate: 2025-03-15
-time: "9:00 AM - 3:00 PM"
-location: "Various Community Locations"
+time: "9:00 - 15:00"
+location: "Diversos puntos de la comunidad"
 image: "/uploads/events/community-outreach-day.webp"
-summary: "Join us for a day of service as we reach out to our community with practical help and God's love."
-tags: ["outreach", "service", "community"]
+summary: "Súmate a un día de servicio y colaboración para fortalecer nuestra comunidad."
+tags: ["apoyo", "servicio", "comunidad"]
 registrationRequired: true
 registrationLink: "https://example.com/outreach-day-2025"
 draft: false
 ---
 
-## Serving Our Community Together
+## Apoyando a Nuestra Comunidad
 
-Our annual Community Outreach Day is an opportunity for our church family to demonstrate God's love through practical service to our neighbors and community.
+Nuestra Jornada Anual de Apoyo Comunitario es una oportunidad para unirnos y brindar ayuda práctica a nuestros vecinos y vecinas.
 
-### Service Projects
+### Proyectos de Servicio
 
-**Food Distribution**
-- Location: Community Center
-- Time: 9:00 AM - 12:00 PM
-- Help distribute groceries to families in need
+**Entrega de Alimentos**
+- Lugar: Centro Comunitario
+- Horario: 9:00 - 12:00
+- Apoya en la distribución de víveres a familias
 
-**Neighborhood Cleanup**
-- Location: Riverside Park
-- Time: 9:00 AM - 1:00 PM
-- Beautify our local park and walking trails
+**Limpieza de Barrios**
+- Lugar: Parque Riverside
+- Horario: 9:00 - 13:00
+- Colabora en la limpieza y embellecimiento de espacios públicos
 
-**Senior Care Visits**
-- Location: Sunset Manor Nursing Home
-- Time: 10:00 AM - 2:00 PM
-- Visit with residents and provide companionship
+**Visitas a Personas Mayores**
+- Lugar: Hogar Sunset Manor
+- Horario: 10:00 - 14:00
+- Acompaña y comparte tiempo con personas mayores
 
-**Home Repairs**
-- Location: Various homes
-- Time: 9:00 AM - 3:00 PM
-- Minor repairs for elderly and disabled community members
+**Reparaciones en Hogares**
+- Lugar: Diversos domicilios
+- Horario: 9:00 - 15:00
+- Apoya con reparaciones menores a personas mayores o con discapacidad
 
-### What to Bring
+### Qué Llevar
 
-- Work clothes and comfortable shoes
-- Water bottle and snacks
-- Servant's heart and positive attitude
-- Any specific tools (we'll provide details upon registration)
+- Ropa cómoda y calzado adecuado
+- Botella de agua y refrigerio
+- Actitud positiva y ganas de ayudar
+- Herramientas específicas (te informaremos al registrarte)
 
-### Registration
+### Inscripción
 
-Please register by March 8th so we can plan accordingly. Indicate your preferred service project when registering.
+Por favor, inscríbete antes del 8 de marzo para una mejor organización. Indica el proyecto en el que te gustaría participar.
 
-*Lunch will be provided for all volunteers*
+*Habrá almuerzo para todas las personas voluntarias.*

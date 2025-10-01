@@ -1,46 +1,45 @@
 ---
-name: "Worship Ministry"
+name: "Programa de Artes y Música"
 slug: "worship-ministry"
 logo: "/uploads/ministries/worship-logo.webp"
-summary: "Leading our congregation in Spirit-filled worship through music, song, and creative expression."
+summary: "Fomentamos la expresión artística y musical a través de talleres, presentaciones y actividades creativas para la comunidad."
 coordinator: "David Wilson"
-contact: "worship@churchname.org"
-schedule: "Rehearsals: Thursday 7:00 PM | Sunday Services: 8:00 AM & 10:30 AM"
+contact: "artes@organization.org"
+schedule: "Ensayos: Jueves 19:00 | Presentaciones: Consultar calendario"
 order: 2
 draft: false
 ---
 
-## Our Vision
+## Nuestra Visión
 
-To create an atmosphere of authentic worship where people can encounter God's presence and respond to His love through music and creative expression.
+Crear un ambiente donde las personas puedan expresarse y desarrollarse a través de la música y las artes, promoviendo la creatividad y la participación comunitaria.
 
-## Ministry Areas
+## Áreas del Programa
 
-### Music Teams
-- Vocalists
-- Instrumentalists (piano, guitar, drums, bass, etc.)
-- Sound technicians
-- Visual/projection team
+### Equipos Musicales
+- Vocalistas
+- Instrumentistas (piano, guitarra, batería, bajo, etc.)
+- Técnicos de sonido
+- Equipo de proyección y visuales
 
-### Creative Arts
-- Dance ministry
-- Drama team
-- Visual arts
+### Artes Creativas
+- Danza
+- Teatro
+- Artes visuales
 
-## Getting Involved
+## ¿Cómo Participar?
 
-We welcome those with musical or technical abilities to join our ministry. Requirements include:
+Invitamos a quienes tengan habilidades musicales, técnicas o artísticas a sumarse a nuestro programa. Requisitos:
 
-1. A heart for worship and serving
-2. Regular church attendance
-3. Commitment to rehearsals
-4. Basic musical proficiency (for musicians)
+1. Gusto por la música, el arte y el trabajo en equipo
+2. Compromiso con los ensayos y actividades
+3. Disposición para aprender y compartir
 
-### Training & Development
+### Formación y Desarrollo
 
-- Monthly worship workshops
-- Music theory classes
-- Sound engineering basics
-- Spiritual formation sessions
+- Talleres mensuales de música y arte
+- Clases de teoría musical
+- Introducción a la técnica de sonido
+- Espacios de creatividad y expresión
 
-Contact our worship coordinator to schedule an audition or learn more about serving opportunities.
+Contacta a nuestro coordinador para conocer más o para participar en el programa.

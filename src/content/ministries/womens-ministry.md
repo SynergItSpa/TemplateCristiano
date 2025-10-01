@@ -1,163 +1,163 @@
 ---
-name: "Women's Ministry"
-slug: "womens-ministry"
+name: "Women's Program"
+slug: "womens-program"
 logo: "/uploads/ministries/womens-ministry-logo.webp"
-summary: "Empowering women to grow in faith, build meaningful relationships, and serve God with their unique gifts and calling."
-coordinator: "Rev. Sarah Martinez"
-contact: "women@churchname.org"
-schedule: "Women's Circle: 2nd Tuesday 10:00 AM | Evening Study: Thursday 7:00 PM"
+summary: "Empoderando a las mujeres para crecer, construir relaciones significativas y servir a la comunidad con sus talentos y vocación única."
+coordinator: "Sarah Martinez"
+contact: "women@organization.org"
+schedule: "Círculo de Mujeres: 2º martes 10:00 AM | Taller Vespertino: jueves 7:00 PM"
 order: 5
 draft: false
 ---
 
-## Our Vision
+## Nuestra Visión
 
-To create a community where women of all ages and life stages can grow in their relationship with Christ, support one another, and discover their God-given purpose.
+Crear una comunidad donde mujeres de todas las edades y etapas de vida puedan crecer, apoyarse mutuamente y descubrir su propósito personal y social.
 
-## Core Focus Areas
+## Áreas de Enfoque
 
-### Spiritual Growth
-- Bible study and prayer
-- Discipleship and mentoring
-- Spiritual gifts discovery
-- Personal relationship with Christ
+### Crecimiento Personal
+- Talleres de desarrollo y autoconocimiento
+- Mentoría y acompañamiento
+- Descubrimiento de habilidades y talentos
+- Bienestar emocional y mental
 
-### Community and Fellowship
-- Building authentic friendships
-- Supporting one another through life's challenges
-- Celebrating milestones and achievements
-- Creating inclusive, welcoming environment
+### Comunidad y Convivencia
+- Construcción de amistades auténticas
+- Apoyo mutuo en los desafíos de la vida
+- Celebración de logros y etapas
+- Ambiente inclusivo y acogedor
 
-### Service and Outreach
-- Using gifts to serve others
-- Community involvement
-- Missions support
-- Acts of kindness and compassion
+### Servicio y Acción Social
+- Uso de talentos para servir a otros
+- Participación en proyectos comunitarios
+- Apoyo a causas sociales
+- Acciones de solidaridad y empatía
 
-## Regular Programs
+## Programas Regulares
 
-### Women's Circle
-**When**: Second Tuesday of each month, 10:00 AM
-**What**:
-- Bible study and discussion
-- Prayer time
-- Fellowship and refreshments
-- Guest speakers on relevant topics
+### Círculo de Mujeres
+**Cuándo**: Segundo martes de cada mes, 10:00 AM
+**Qué**:
+- Espacio de diálogo y reflexión
+- Charlas y talleres
+- Convivencia y refrigerios
+- Invitadas especiales sobre temas relevantes
 
-### Evening Bible Study
-**When**: Every Thursday, 7:00 PM
-**What**:
-- In-depth Bible study
-- Small group discussions
-- Prayer and support
-- Practical life application
+### Taller Vespertino
+**Cuándo**: Todos los jueves, 7:00 PM
+**Qué**:
+- Talleres prácticos y de desarrollo
+- Grupos pequeños de discusión
+- Apoyo y acompañamiento
+- Aplicación práctica en la vida diaria
 
-### Monthly Fellowship Events
-- Coffee mornings
-- Potluck dinners
-- Game nights
-- Seasonal celebrations
+### Eventos Mensuales de Convivencia
+- Cafés y desayunos
+- Cenas compartidas
+- Noches de juegos
+- Celebraciones de temporada
 
-## Special Events
+## Eventos Especiales
 
-### Women's Retreat
-**When**: Annual weekend retreat
-**What**:
-- Inspiring speakers and worship
-- Workshops and seminars
-- Rest and relaxation
-- Deep friendships and bonding
+### Retiro Anual de Mujeres
+**Cuándo**: Retiro de fin de semana anual
+**Qué**:
+- Talleres y charlas inspiradoras
+- Espacios de relajación y bienestar
+- Convivencia y fortalecimiento de lazos
+- Actividades recreativas
 
-### Mother-Daughter Events
-- Tea parties and brunches
-- Service projects together
-- Craft and cooking activities
-- Generational wisdom sharing
+### Actividades Madre e Hija
+- Brunches y meriendas
+- Proyectos de servicio conjunto
+- Talleres de manualidades y cocina
+- Compartir experiencias entre generaciones
 
-### Community Service Projects
-- Meal preparation for families in need
-- Baby shower support for young mothers
-- Senior care visits
-- Local charity support
+### Proyectos de Servicio Comunitario
+- Preparación de alimentos para familias en situación vulnerable
+- Apoyo a madres jóvenes
+- Visitas a personas mayores
+- Colaboración con organizaciones locales
 
-## Life Stage Ministries
+## Grupos por Etapa de Vida
 
-### Young Mothers
-- Parenting support and encouragement
-- Childcare during meetings
-- Practical parenting workshops
-- Playgroups and family activities
+### Madres Jóvenes
+- Apoyo y acompañamiento en la crianza
+- Cuidado de niños durante reuniones
+- Talleres prácticos de maternidad
+- Actividades familiares
 
-### Working Women
-- Career and faith integration
-- Work-life balance strategies
-- Professional development
-- Networking and mentorship
+### Mujeres Profesionales
+- Integración de valores y carrera
+- Estrategias de equilibrio vida-trabajo
+- Desarrollo profesional
+- Redes de apoyo y mentoría
 
-### Empty Nesters
-- Rediscovering purpose and identity
-- Grandparenting wisdom
-- Travel and adventure groups
-- Mentoring younger women
+### Mujeres en Nueva Etapa
+- Redescubrir propósito e identidad
+- Compartir experiencias de vida
+- Grupos de viaje y aventura
+- Mentoría a mujeres más jóvenes
 
-### Senior Women
-- Wisdom sharing and legacy building
-- Health and wellness focus
-- Intergenerational connections
-- Prayer ministry leadership
+### Mujeres Mayores
+- Compartir sabiduría y experiencias
+- Enfoque en salud y bienestar
+- Conexiones intergeneracionales
+- Liderazgo en actividades comunitarias
 
-## Small Groups
+## Grupos Pequeños
 
-### Book Clubs
-- Christian living books
-- Biography studies
-- Devotional groups
-- Fiction with faith themes
+### Clubes de Lectura
+- Libros de desarrollo personal
+- Biografías inspiradoras
+- Grupos de reflexión
+- Literatura de interés general
 
-### Hobby Groups
-- Crafting and sewing circles
-- Cooking and baking clubs
-- Gardening enthusiasts
-- Exercise and wellness groups
+### Grupos de Aficiones
+- Manualidades y costura
+- Cocina y repostería
+- Jardinería
+- Actividad física y bienestar
 
-### Support Groups
-- Grief and loss support
-- Marriage enrichment
-- Single women's fellowship
-- Caregivers support
+### Grupos de Apoyo
+- Apoyo en duelo y pérdida
+- Enriquecimiento de relaciones
+- Espacios para mujeres solteras
+- Apoyo a cuidadoras
 
-## Ministry Opportunities
+## Oportunidades de Participación
 
-### Leadership Roles
-- Small group leaders
-- Event planning committee
-- Hospitality team
-- Prayer ministry coordinators
+### Roles de Liderazgo
+- Líderes de grupos pequeños
+- Comité de organización de eventos
+- Equipo de hospitalidad
+- Coordinadoras de actividades
 
-### Service Teams
-- Nursery volunteers
-- Kitchen and meal preparation
-- Decorating and setup
-- Outreach coordinators
+### Equipos de Servicio
+- Voluntariado en actividades
+- Preparación de alimentos
+- Decoración y logística
+- Coordinación de proyectos sociales
 
-### Mentorship Program
-- Experienced women mentoring younger women
-- Life skills sharing
-- Spiritual guidance
-- Career and family advice
+### Programa de Mentoría
+- Mujeres con experiencia acompañando a jóvenes
+- Compartir habilidades y experiencias
+- Orientación personal y profesional
+- Apoyo en temas familiares y laborales
 
-## Upcoming Events
+## Próximos Eventos
 
-- **February 12**: Women's Circle - "Finding Joy in Difficult Seasons"
-- **March 8**: International Women's Day Celebration
-- **April 26-28**: Annual Women's Retreat - "Renewed and Refreshed"
-- **May 10**: Mother-Daughter Tea Party
+- **12 de febrero**: Círculo de Mujeres - "Encontrando alegría en tiempos difíciles"
+- **8 de marzo**: Celebración del Día Internacional de la Mujer
+- **26-28 de abril**: Retiro Anual de Mujeres - "Renovadas y fortalecidas"
+- **10 de mayo**: Merienda Madre e Hija
 
-## Resources
+## Recursos
 
-- Monthly newsletter with encouragement and updates
-- Recommended reading lists
-- Prayer request system
-- Resource library for borrowing
+- Boletín mensual con novedades y recursos
+- Listas de lecturas recomendadas
+- Espacio para compartir necesidades y apoyos
+- Biblioteca de recursos para préstamo
 
-Contact Pastor Sarah Martinez to learn more about Women's Ministry or to find your place in our community of faith.
+Contacta a Sarah Martinez para saber más sobre el Programa de Mujeres o para integrarte a nuestra comunidad.

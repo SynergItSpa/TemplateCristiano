@@ -1,8 +1,8 @@
 ---
 import { getCollection } from "astro:content";
-import Card from "../UI/Card.astro";
-import Button from "../UI/Button.astro";
 import { formatDate } from "../../utils/dateUtils";
+import Button from "../UI/Button.astro";
+import Card from "../UI/Card.astro";
 
 export interface Props {
   count?: number;
@@ -26,9 +26,9 @@ const events = allEvents
 <section class="py-16 bg-gray-50">
   <div class="container">
     <div class="text-center mb-12">
-      <h2 class="text-3xl md:text-4xl font-bold mb-4">Upcoming Events</h2>
+      <h2 class="text-3xl md:text-4xl font-bold mb-4">Próximos Eventos Comunitarios</h2>
       <p class="text-xl text-gray-600 max-w-3xl mx-auto">
-        Join us for these upcoming events and become part of our community
+        Únete a estas próximas actividades y sé parte del impacto comunitario de nuestra organización
       </p>
     </div>
     
@@ -60,7 +60,7 @@ const events = allEvents
           <p class="text-gray-700 mb-4">{event.data.summary}</p>
           
           <p class="text-primary-600 font-medium group-hover:underline group-hover:text-primary-700">
-            Learn More →
+            Más información →
           </p>
         </Card>
       ))}
@@ -69,7 +69,7 @@ const events = allEvents
     {showViewAll && events.length > 0 && (
       <div class="mt-12 text-center">
         <Button href="/events" variant="outline">
-          View All Events
+          Ver todos los eventos
         </Button>
       </div>
     )}

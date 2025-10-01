@@ -1,46 +1,44 @@
 ---
-title: "Easter Celebration: He Is Risen!"
+title: "Celebración de Primavera"
 date: 2025-04-20
 endDate: 2025-04-20
-time: "8:00 AM & 10:30 AM Services"
-location: "Main Sanctuary"
+time: "8:00 y 10:30"
+location: "Jardín Principal"
 image: "/uploads/events/easter-celebration.webp"
-summary: "Join us for a joyful celebration of Christ's resurrection with special music, inspiring messages, and fellowship."
-tags: ["easter", "celebration", "special service"]
+summary: "Acompáñanos en una celebración especial con música, actividades para niños y convivencia comunitaria."
+tags: ["primavera", "celebración", "evento especial"]
 registrationRequired: false
 draft: false
 ---
 
-## Celebrate the Resurrection!
+## ¡Celebremos la Primavera!
 
-Easter is the most important celebration in the Christian calendar, and we invite you to join us for this special day as we commemorate Christ's victory over death.
+Te invitamos a participar en nuestra celebración anual de primavera, un evento para disfrutar en familia y fortalecer lazos en la comunidad.
 
-### Service Schedule
+### Programa del Evento
 
-**8:00 AM - Traditional Service**
-- Classic hymns and choir special music
-- Communion service
-- Easter message by Pastor John Smith
+**8:00 - Actividad Tradicional**
+- Música y presentaciones especiales
+- Mensaje de bienvenida
 
-**10:30 AM - Contemporary Service**
-- Modern worship music
-- Children's Easter presentation
-- Easter message by Pastor John Smith
-- Easter egg hunt for children (following service)
+**10:30 - Actividad Familiar**
+- Música moderna y actividades para niños
+- Búsqueda de huevos de primavera
+- Espacio de convivencia
 
-### Special Features
+### Actividades Especiales
 
-- Beautiful Easter lily decorations
-- Special music by our choir and worship team
-- Photography opportunities in the church garden
-- Light refreshments between services
+- Decoración floral y ambiente festivo
+- Música en vivo
+- Zona de fotografía en el jardín
+- Refrigerios ligeros entre actividades
 
-### Easter Egg Hunt
+### Búsqueda de Huevos
 
-Immediately following the 10:30 AM service, children ages 2-12 are invited to participate in our annual Easter egg hunt in the church courtyard.
+Después de la actividad de las 10:30, los niños de 2 a 12 años podrán participar en la tradicional búsqueda de huevos en el jardín.
 
-### Invite Your Friends and Family
+### Invita a tu Familia y Amigos
 
-Easter is a perfect time to invite friends and family to experience the joy of our church community. We'll have welcome packets for all visitors.
+La primavera es el momento ideal para compartir y disfrutar juntos. ¡Todos son bienvenidos!
 
-*Nursery care available for both services*
+*Habrá espacio de cuidado para los más pequeños durante las actividades.*

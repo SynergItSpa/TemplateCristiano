@@ -1,25 +1,22 @@
 ---
-title: "Church Office & Activity Hours"
+title: "Horario de Oficina y Actividades de la Organización"
 ---
 
-Here are the operational hours for our church office and main activities:
+Aquí encontrarás los horarios de atención de nuestra oficina y las principales actividades de la organización:
 
-### Church Office Hours
+### Horario de Oficina
 
-*   **Monday - Friday:** 9:00 AM - 5:00 PM
-*   **Saturday:** 9:00 AM - 1:00 PM
-*   **Sunday & Public Holidays:** Closed (except for scheduled services/events)
+*   **Lunes a Viernes:** 9:00 AM - 5:00 PM
+*   **Sábado:** 9:00 AM - 1:00 PM
+*   **Domingo y Feriados:** Cerrado (excepto para eventos programados)
 
-For urgent matters outside of office hours, please use the emergency contact number provided on our contact page.
+Para asuntos urgentes fuera del horario de oficina, por favor utiliza el número de contacto de emergencia disponible en nuestra página de contacto.
 
-### Main Services & Activities
+### Actividades Principales
 
-*   **Sunday Worship Service:**
-    *   1st Service: 8:00 AM
-    *   2nd Service: 10:30 AM (with Children's Ministry)
-*   **Youth Group:** Fridays, 7:00 PM
-*   **Mid-week Prayer Meeting:** Wednesdays, 7:00 PM
-*   **Women's Fellowship:** Every 2nd Tuesday, 10:00 AM
-*   **Men's Breakfast:** Every 1st Saturday, 8:00 AM
+*   **Talleres y Charlas:** Consultar calendario de eventos
+*   **Grupo Juvenil:** Viernes, 7:00 PM
+*   **Encuentro de Mujeres:** Cada segundo martes, 10:00 AM
+*   **Desayuno de Hombres:** Cada primer sábado, 8:00 AM
 
-_Please note: Schedules are subject to change. Always check the weekly bulletin or events page for the latest information._
+_Nota: Los horarios pueden estar sujetos a cambios. Consulta siempre el boletín semanal o la página de eventos para la información más actualizada._

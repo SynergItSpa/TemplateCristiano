@@ -1,94 +1,94 @@
 ---
-name: "Children's Ministry"
+name: "Programa Infantil"
 slug: "childrens-ministry"
 logo: "/uploads/ministries/childrens-ministry-logo.webp"
-summary: "Nurturing children ages 0-12 in their faith journey through engaging, age-appropriate programs that teach God's love."
-coordinator: "Mrs. Jennifer Davis"
-contact: "children@churchname.org"
-schedule: "Sunday School: 9:15 AM | Children's Church: 10:30 AM | Wednesday Kids Club: 6:30 PM"
+summary: "Acompañamos a niños y niñas de 0 a 12 años en su desarrollo a través de programas lúdicos y educativos, promoviendo valores y convivencia."
+coordinator: "Jennifer Davis"
+contact: "children@organization.org"
+schedule: "Club Infantil: Miércoles 18:30 | Actividades de domingo: 9:15 y 10:30"
 order: 1
 draft: false
 ---
 
-## Our Mission
+## Nuestra Misión
 
-To partner with parents in raising children who know, love, and follow Jesus Christ. We create a safe, fun, and engaging environment where children can learn about God's love and develop a personal relationship with Him.
+Colaborar con las familias en la formación de niños y niñas responsables, solidarios y felices. Creamos un entorno seguro, divertido y participativo donde pueden aprender y crecer.
 
-## Age-Appropriate Programs
+## Programas por Edad
 
-### Nursery (0-2 years)
-- Safe, loving care during services
-- Trained volunteers and security procedures
-- Age-appropriate toys and activities
-- Diaper changing and feeding assistance
+### Sala Cuna (0-2 años)
+- Cuidado seguro y afectuoso durante las actividades
+- Voluntariado capacitado y protocolos de seguridad
+- Juegos y actividades apropiadas para la edad
+- Apoyo en alimentación y cambio de pañales
 
-### Preschool (3-5 years)
-- Interactive Bible stories
-- Songs and movement activities
-- Simple crafts and games
-- Character-building lessons
+### Preescolar (3-5 años)
+- Cuentos y actividades interactivas
+- Canciones y juegos de movimiento
+- Manualidades sencillas
+- Lecciones de valores y convivencia
 
-### Elementary (K-5th grade)
-- Engaging Bible lessons
-- Worship and prayer time
-- Service projects
-- Scripture memorization programs
+### Primaria (6-12 años)
+- Talleres y dinámicas educativas
+- Juegos cooperativos
+- Proyectos de servicio
+- Actividades de memoria y atención
 
-## Weekly Schedule
+## Horario Semanal
 
-### Sunday Programs
-- **9:15 AM**: Sunday School for all ages
-- **10:30 AM**: Children's Church (during main service)
+### Actividades de Domingo
+- **9:15 AM**: Actividades para todas las edades
+- **10:30 AM**: Programa infantil (durante la actividad principal)
 
-### Wednesday Programs
-- **6:30 PM**: Kids Club with dinner, games, and Bible study
+### Actividades de Miércoles
+- **18:30**: Club Infantil con cena, juegos y talleres
 
-## Special Events
+## Eventos Especiales
 
-### Vacation Bible School
-Annual summer program featuring:
-- Daily Bible lessons and activities
-- Music and drama presentations
-- Crafts and games
-- Community outreach projects
+### Escuela de Verano
+Programa anual con:
+- Talleres y actividades diarias
+- Presentaciones artísticas
+- Manualidades y juegos
+- Proyectos de impacto comunitario
 
-### Children's Christmas Program
-- Annual Christmas presentation
-- Opportunity for children to participate in worship
-- Family-friendly celebration
+### Festival de Invierno
+- Presentación anual de invierno
+- Espacio para la participación de los niños
+- Celebración para toda la familia
 
-### Easter Celebration
-- Easter egg hunt
-- Resurrection story activities
-- Spring festival games
+### Celebración de Primavera
+- Búsqueda de huevos
+- Juegos y actividades al aire libre
+- Talleres temáticos
 
-## Safety and Security
+## Seguridad y Bienestar
 
-We prioritize the safety of all children through:
-- Background checks for all volunteers
-- Secure check-in/check-out procedures
-- Trained staff in child protection policies
-- Clean and safe facilities
+Priorizamos la seguridad de los niños mediante:
+- Revisión de antecedentes de voluntarios
+- Protocolos de ingreso y egreso
+- Personal capacitado en protección infantil
+- Instalaciones limpias y seguras
 
-## Volunteer Opportunities
+## Voluntariado
 
-We need volunteers to serve as:
-- Teachers and assistants
-- Nursery workers
-- Event helpers
-- Administrative support
+Buscamos voluntarios para:
+- Apoyo en talleres y actividades
+- Cuidado en sala cuna
+- Organización de eventos
+- Apoyo administrativo
 
-### Requirements for Volunteers
-- Love for children and desire to serve
-- Commitment to regular attendance
-- Completion of background check
-- Participation in training sessions
+### Requisitos para Voluntariado
+- Gusto por trabajar con niños
+- Compromiso de asistencia regular
+- Completar proceso de selección
+- Participar en capacitaciones
 
-## Parent Resources
+## Recursos para Familias
 
-- Monthly newsletters with lesson themes
-- Suggested activities for home
-- Parenting workshops and support groups
-- Family devotional materials
+- Boletines mensuales con temas y actividades
+- Sugerencias para el hogar
+- Talleres y grupos de apoyo para padres
+- Materiales educativos para la familia
 
-Contact Mrs. Jennifer Davis to learn more about our children's ministry or to volunteer.
+Contacta a Jennifer Davis para conocer más sobre el programa infantil o para ser voluntario.

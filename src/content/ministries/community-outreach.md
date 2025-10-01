@@ -1,126 +1,125 @@
 ---
-name: "Community Outreach Ministry"
+name: "Programa de Apoyo Comunitario"
 slug: "community-outreach"
 logo: "/uploads/ministries/community-outreach-logo.webp"
-summary: "Serving our local community through practical assistance, food distribution, and programs that demonstrate God's love in action."
+summary: "Apoyamos a la comunidad local a través de asistencia práctica, distribución de alimentos y programas solidarios."
 coordinator: "Mark Thompson"
-contact: "outreach@churchname.org"
-schedule: "Food Pantry: Saturdays 9:00 AM | Community Meals: 2nd Sunday monthly"
+contact: "outreach@organization.org"
+schedule: "Despensa: Sábados 9:00 AM | Comidas Comunitarias: 2º domingo de cada mes"
 order: 3
 draft: false
 ---
 
-## Our Heart for the Community
+## Nuestro Compromiso con la Comunidad
 
-We believe that faith without works is dead. Our Community Outreach Ministry exists to demonstrate God's love through practical service to our neighbors, especially those facing difficult circumstances.
+Trabajamos para brindar apoyo práctico a nuestros vecinos, especialmente a quienes atraviesan situaciones difíciles.
 
-## Current Programs
+## Programas Actuales
 
-### Food Pantry
-**When**: Every Saturday, 9:00 AM - 12:00 PM
-**What**: Free groceries for families in need
-**How to Help**: 
-- Donate non-perishable food items
-- Volunteer to sort and distribute food
-- Sponsor a family's monthly groceries
+### Despensa de Alimentos
+**Cuándo**: Todos los sábados, 9:00 AM - 12:00 PM
+**Qué**: Entrega gratuita de alimentos a familias que lo necesitan
+**Cómo ayudar**:
+- Donar alimentos no perecederos
+- Voluntariado para clasificar y entregar alimentos
+- Apadrinar la despensa de una familia
 
-### Community Meals
-**When**: Second Sunday of each month, 12:30 PM
-**What**: Free hot meals served in our fellowship hall
-**Who**: Open to anyone in the community
-**How to Help**:
-- Prepare and serve meals
-- Donate ingredients
-- Provide fellowship and conversation
+### Comidas Comunitarias
+**Cuándo**: Segundo domingo de cada mes, 12:30 PM
+**Qué**: Comidas calientes gratuitas
+**Quiénes**: Abierto a toda la comunidad
+**Cómo ayudar**:
+- Preparar y servir comidas
+- Donar ingredientes
+- Compartir y acompañar
 
-### Clothing Closet
-**When**: First Saturday of each month, 10:00 AM - 2:00 PM
-**What**: Free clothing for all ages
-**How to Help**:
-- Donate clean, gently used clothing
-- Help sort and organize donations
-- Assist customers in finding items
+### Ropero Solidario
+**Cuándo**: Primer sábado de cada mes, 10:00 AM - 14:00 PM
+**Qué**: Ropa gratuita para todas las edades
+**Cómo ayudar**:
+- Donar ropa limpia y en buen estado
+- Ayudar a organizar y entregar donaciones
+- Asistir a quienes buscan prendas
 
-### Senior Care Ministry
-**What**: Regular visits and assistance for elderly community members
-**Services**:
-- Grocery shopping and errands
-- Light household tasks
-- Companionship visits
-- Transportation to appointments
+### Apoyo a Personas Mayores
+**Qué**: Visitas y asistencia regular a personas mayores
+**Servicios**:
+- Compras y mandados
+- Tareas domésticas ligeras
+- Acompañamiento
+- Traslados a citas médicas
 
-## Seasonal Outreach
+## Campañas Estacionales
 
-### Back-to-School Drive
-- Collect school supplies for local students
-- Provide backpacks and clothing
-- Partner with local schools
+### Vuelta a Clases
+- Recolección de útiles escolares
+- Entrega de mochilas y ropa
+- Alianzas con escuelas locales
 
-### Thanksgiving Baskets
-- Provide complete Thanksgiving meals
-- Deliver to families in need
-- Include personal notes of encouragement
+### Canastas de Fin de Año
+- Entrega de alimentos para celebraciones
+- Visitas a familias
+- Notas de aliento
 
-### Christmas Toy Drive
-- Collect new toys for children
-- Partner with local organizations
-- Organize gift wrapping events
+### Juguetes para la Infancia
+- Recolección de juguetes nuevos
+- Organización de eventos de entrega
 
-### Winter Coat Drive
-- Collect warm clothing for all ages
-- Distribute through community partners
-- Focus on children and elderly
+### Abrigando a la Comunidad
+- Recolección de ropa de abrigo
+- Entrega a través de organizaciones aliadas
+- Enfoque en niños y personas mayores
 
-## Community Partnerships
+## Alianzas Comunitarias
 
-We work closely with:
-- Local food banks
-- Homeless shelters
-- Senior centers
-- Public schools
-- Other churches and faith organizations
+Colaboramos con:
+- Bancos de alimentos
+- Refugios
+- Centros de día
+- Escuelas públicas
+- Otras organizaciones sociales
 
-## Volunteer Opportunities
+## Voluntariado
 
-### Regular Volunteers Needed For:
-- Food pantry operations
-- Meal preparation and serving
-- Clothing closet organization
-- Senior visits and assistance
-- Administrative support
+### Voluntarios regulares:
+- Operación de despensa
+- Preparación y servicio de comidas
+- Organización del ropero
+- Apoyo a personas mayores
+- Apoyo administrativo
 
-### Special Event Volunteers:
-- Seasonal drives and distributions
-- Community events
-- Fundraising activities
-- Awareness campaigns
+### Voluntariado en eventos especiales:
+- Campañas estacionales
+- Eventos comunitarios
+- Actividades de recaudación
+- Campañas de sensibilización
 
-## How to Get Involved
+## ¿Cómo participar?
 
-1. **Attend an Orientation**: Learn about our programs and volunteer opportunities
-2. **Choose Your Area**: Find a ministry that matches your interests and availability
-3. **Complete Training**: Receive specific training for your chosen area
-4. **Start Serving**: Begin making a difference in our community
+1. **Asiste a una orientación**: Conoce nuestros programas y oportunidades de voluntariado
+2. **Elige tu área**: Encuentra el programa que más te motive
+3. **Capacítate**: Recibe formación específica
+4. **Comienza a participar**: ¡Haz la diferencia en tu comunidad!
 
-## Donation Needs
+## Donaciones
 
-### Always Needed:
-- Non-perishable food items
-- Personal hygiene products
-- Cleaning supplies
-- Baby items (diapers, formula, clothing)
-- School and office supplies
+### Siempre necesitamos:
+- Alimentos no perecederos
+- Productos de higiene personal
+- Artículos de limpieza
+- Productos para bebés
+- Útiles escolares y de oficina
 
-### Seasonal Needs:
-- Winter clothing and blankets
-- School supplies (August)
-- Holiday meal items (November)
-- Toys and gifts (December)
+### Según la temporada:
+- Ropa de abrigo y mantas
+- Útiles escolares (agosto)
+- Alimentos para celebraciones (noviembre)
+- Juguetes y regalos (diciembre)
 
-## Impact Stories
+## Testimonios
 
-*"The food pantry has been a lifesaver for our family during my husband's unemployment. The volunteers are so kind and never make us feel ashamed."* - Community Member
+*"La despensa fue un gran apoyo para mi familia en un momento difícil. Los voluntarios siempre nos trataron con respeto y amabilidad."* - Miembro de la comunidad
 
-*"I love volunteering at the community meals. It's amazing to see how a simple meal can bring people together and show God's love."* - Volunteer
+*"Me encanta colaborar en las comidas comunitarias. Es increíble ver cómo una comida puede unir a las personas y generar solidaridad."* - Voluntario
 
-Contact Mark Thompson to learn more about our outreach programs or to start volunteering today.
+Contacta a Mark Thompson para conocer más sobre nuestros programas o para sumarte como voluntario.

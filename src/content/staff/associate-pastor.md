@@ -1,34 +1,34 @@
 ---
-name: "Rev. Sarah Martinez"
-title: "Associate Pastor & Women's Ministry Director"
+name: "Sarah Martinez"
+title: "Directora Asociada y Coordinadora del Programa de Mujeres"
 image: "/uploads/staff/sarah-martinez.webp"
-email: "sarah.martinez@churchname.org"
+email: "sarah.martinez@organization.org"
 phone: "+1-555-0102"
-bio: "Pastor Sarah leads our women's ministry and provides pastoral care with a heart for discipleship and community building."
+bio: "Sarah lidera el programa de mujeres y brinda acompañamiento con un enfoque en el desarrollo personal y la construcción de comunidad."
 order: 2
 draft: false
 ---
 
-Rev. Sarah Martinez joined our pastoral team in 2019, bringing extensive experience in women's ministry and pastoral care. She holds a Master of Divinity from Christian Seminary and is passionate about discipleship.
+Sarah Martinez se unió a nuestro equipo en 2019, aportando una amplia experiencia en programas para mujeres y acompañamiento comunitario. Es licenciada en Ciencias Sociales y está comprometida con el desarrollo y empoderamiento femenino.
 
-## Ministry Areas
+## Áreas de Trabajo
 
-- Women's ministry leadership
-- Small group coordination
-- Pastoral counseling
-- New member integration
-- Marriage and family ministry
+- Liderazgo del programa de mujeres
+- Coordinación de grupos pequeños
+- Orientación y acompañamiento personal
+- Integración de nuevos miembros
+- Apoyo a familias y relaciones
 
-## Vision for Women's Ministry
+## Visión para el Programa de Mujeres
 
-Pastor Sarah envisions a thriving women's ministry that:
-- Builds authentic relationships
-- Provides biblical teaching and discipleship
-- Supports women in all life stages
-- Encourages service and outreach
+Sarah visualiza un programa de mujeres que:
+- Fomente relaciones auténticas
+- Brinde espacios de aprendizaje y desarrollo
+- Apoye a mujeres en todas las etapas de la vida
+- Promueva el servicio y la participación comunitaria
 
-## Background
+## Trayectoria
 
-Before joining our staff, Pastor Sarah served in various ministry roles including youth pastor and missions coordinator. She is married to Carlos and they have two teenage daughters.
+Antes de integrarse a nuestro equipo, Sarah trabajó en diversas organizaciones sociales, incluyendo roles de coordinación juvenil y proyectos comunitarios. Está casada con Carlos y tienen dos hijas adolescentes.
 
-Contact Pastor Sarah for women's ministry involvement, small group information, or pastoral care.
+Contacta a Sarah para participar en el programa de mujeres, información sobre grupos pequeños o acompañamiento personal.

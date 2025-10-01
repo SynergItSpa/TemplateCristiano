@@ -1,30 +1,30 @@
 ---
-name: "Rev. Dr. John Smith"
-title: "Senior Pastor"
+name: "Dr. John Smith"
+title: "Director General"
 image: "/uploads/staff/john-smith.webp"
-email: "pastor.john@churchname.org"
+email: "john.smith@organization.org"
 phone: "+1-555-0101"
-bio: "Pastor John has been faithfully serving our congregation for over 12 years, bringing wisdom, compassion, and biblical teaching to our community."
+bio: "John ha liderado nuestra organización durante más de 12 años, aportando sabiduría, empatía y visión estratégica a nuestra comunidad."
 order: 1
 draft: false
 ---
 
-Rev. Dr. John Smith has been the Senior Pastor of our church since 2013. He holds a Doctor of Ministry from Seminary University and has over 20 years of pastoral experience.
+El Dr. John Smith es el Director General de nuestra organización desde 2013. Es doctor en Ciencias Sociales y cuenta con más de 20 años de experiencia en liderazgo y gestión de proyectos sociales.
 
-## Ministry Philosophy
+## Filosofía de Liderazgo
 
-Pastor John believes in expository preaching, pastoral care, and community engagement. His heart is to see people grow in their relationship with Christ and serve others with love.
+John cree en el liderazgo participativo, el acompañamiento y el compromiso comunitario. Su objetivo es ver a las personas crecer y servir a la sociedad con valores y solidaridad.
 
-## Areas of Focus
+## Áreas de Enfoque
 
-- Biblical preaching and teaching
-- Pastoral counseling and care
-- Leadership development
-- Community outreach initiatives
-- Vision casting for the church
+- Dirección estratégica y desarrollo organizacional
+- Mentoría y acompañamiento
+- Desarrollo de liderazgo
+- Iniciativas de impacto comunitario
+- Definición de visión y objetivos institucionales
 
-## Personal Life
+## Vida Personal
 
-Pastor John is married to Sarah, and they have three children. He enjoys reading, hiking, and spending time with his family. He is also an avid supporter of local community programs.
+John está casado con Sarah y tienen tres hijos. Disfruta de la lectura, el senderismo y pasar tiempo en familia. Es un gran impulsor de programas comunitarios locales.
 
-Contact Pastor John for pastoral care, counseling, or to discuss the vision and direction of our church.
+Contacta a John para orientación, mentoría o para conversar sobre la visión y dirección de la organización.
