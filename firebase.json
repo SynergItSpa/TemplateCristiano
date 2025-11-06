@@ -1,6 +1,6 @@
 {
   "hosting": {
-    "site": "template-2-5499c",
+    "site": "template-cristiano",
     "public": "dist",
     "ignore": [
       "firebase.json",
